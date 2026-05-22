@@ -2,8 +2,9 @@
 1. Tạo repo trên github
 2. Kết nối Folder trên máy với github
  git init
+
  git remote add origin <link của repo>
-3. Đẩy file lên github
+4. Đẩy file lên github
    git add . (Chọn tất cả các file)
    git add ten_file (Chọn file cụ thể)
 
@@ -11,9 +12,9 @@
 
    git push origin main
    Hoặc lần đầu: git push -u origin main (Thiết lập mặc định)
-4. Đồng bộ repo với máy
+5. Đồng bộ repo với máy
    git pull origin main
-5. Một số thao tác cơ bản khác:
+6. Một số thao tác cơ bản khác:
    - git status :xem trạng thái
    - clear : xóa
    - git log : lịch sử các lần commit
