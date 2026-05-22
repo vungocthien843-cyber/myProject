@@ -1,6 +1,7 @@
 **Các bước sử dụng github cơ bản:**
 1. Tạo repo trên github
 2. Kết nối Folder trên máy với github
+   
  git init
 
  git remote add origin <link của repo>
